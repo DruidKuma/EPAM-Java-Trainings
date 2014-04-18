@@ -112,6 +112,21 @@ public class StockRoom {
     }
     
     /**
+     * Verify storage to have enough products for the salad
+     * @param salad Salad to verify
+     * @return true, if enough products in the storage, false otherwise
+     */
+    public boolean verifyAmount(Salads salad) {
+        for(Component c : salad.ingredients) {
+            if(c.getAmount() > this.getAmount(c.getIngredient())) {
+                System.out.println("Not enough " + c.getIngredient());
+                return false;
+            }
+        }
+        return true;
+    } 
+    
+    /**
      * Returns the number of the components in the storage
      * @return integer, size of the storage
      */

@@ -28,23 +28,12 @@ public class Kitchen {
      * @param salad recipe of the salad
      */
     public void makeSalad(Salads salad) {
-        if(this.verifyAmount(salad)) {
+        if(this.stockRoom.verifyAmount(salad)) {
             for(Component component : salad.ingredients) {
                 this.stockRoom.use(component.getIngredient(), component.getAmount());
             }
         }
     }
-    
-    //Helper, verify storage to have enough products for the salad
-    private boolean verifyAmount(Salads salad) {
-        for(Component c : salad.ingredients) {
-            if(c.getAmount() > this.stockRoom.getAmount(c.getIngredient())) {
-                System.out.println("Not enough " + c.getIngredient());
-                return false;
-            }
-        }
-        return true;
-    } 
     
     /**
      * Compute all the nutrition information for the given salad
