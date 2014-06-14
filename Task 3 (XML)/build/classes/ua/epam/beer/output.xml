@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Beer>
+<Bottle id="_1">
+<Name>Leffe</Name>
+<Type>dark</Type>
+<Al>true</Al>
+<Manufacturer>AnheuserBush</Manufacturer>
+<Ingredients>[water, hop, sugar, malt]</Ingredients>
+<Chars abv="5.6" filtered="false" nutrition="59.0" transparency="25.0">
+<draught>
+<volume>0.33</volume>
+<pack>glass</pack>
+</draught>
+</Chars>
+</Bottle>
+<Bottle id="_2">
+<Name>Staropramen</Name>
+<Type>light</Type>
+<Al>true</Al>
+<Manufacturer>Praha</Manufacturer>
+<Ingredients>[water, hop, malt]</Ingredients>
+<Chars abv="6.0" filtered="true" nutrition="38.0" transparency="47.0">
+<draught>
+<volume>0.5</volume>
+<pack>glass</pack>
+</draught>
+</Chars>
+</Bottle>
+<Bottle id="_3">
+<Name>Stella Artois</Name>
+<Type>lager</Type>
+<Al>false</Al>
+<Manufacturer>Germany</Manufacturer>
+<Ingredients>[water, malt]</Ingredients>
+<Chars filtered="true" nutrition="23.0" transparency="21.0">
+<draught>
+<volume>0.5</volume>
+<pack>glass</pack>
+</draught>
+</Chars>
+</Bottle>
+<Bottle id="_4">
+<Name>Gosser</Name>
+<Type>light</Type>
+<Al>true</Al>
+<Manufacturer>Austria</Manufacturer>
+<Ingredients>[water, hop, sugar, malt]</Ingredients>
+<Chars abv="7.8" filtered="true" nutrition="54.0" transparency="30.0">
+<draught>
+<volume>1.5</volume>
+<pack>plastic</pack>
+</draught>
+</Chars>
+</Bottle>
+<Bottle id="_5">
+<Name>Budweiser</Name>
+<Type>live</Type>
+<Al>true</Al>
+<Manufacturer>Britain</Manufacturer>
+<Ingredients>[water, hop, sugar, malt]</Ingredients>
+<Chars abv="4.5" filtered="false" nutrition="45.0" transparency="27.0">
+<draught>
+<volume>0.5</volume>
+<pack>can</pack>
+</draught>
+</Chars>
+</Bottle>
+</Beer>

@@ -1,0 +1,158 @@
+
+body {
+    background: #211917 url(../img/bg-body.png) repeat-y center top;
+    margin: 0;
+}
+img {
+    border: 0;
+}
+
+/*------------------------------ Sprites ------------------------------*/
+#contents {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: #ffffcc;
+    background-repeat: no-repeat;
+}
+
+/*------------------------------ HEADER ------------------------------*/
+#header {
+	background-color: #241b18;
+	height: 88px;
+	border-bottom: 1px solid #fff;
+	padding: 36px 0 0;
+}
+#header > div {
+	width: 940px;
+	margin: 0 auto;
+	padding: 0 10px;
+	text-align: right;
+}
+/** Logo **/
+#logo {
+    width: 200px;
+    height: 100px;
+    margin-top: -30px;
+    background-image: url(../img/logo.png);
+    background-size: 100% 100%;
+    float: left;
+}
+
+/** Navigation **/
+#navigation {
+	display: inline-block;
+	line-height: 80px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#navigation li {
+	float: left;
+	margin: 0 15px;
+}
+#navigation li:first-child {
+	margin-left: 0;
+}
+#navigation li a {
+	color: #fff;
+	font-size: 14px;
+	padding: 15px 0;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+#navigation li a:hover, #navigation li.selected a {
+	color: #ffc947;
+}
+
+/*------------------------------ FOOTER ------------------------------*/
+#footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #e2b241;
+    border-top: 1px solid #fff;
+    padding: 28px 0 14px;
+}
+#footer p {
+	color: #4b3a33;
+	font-size: 12px;
+	line-height: 18px;
+	margin: 0;
+}
+
+#footer ul.navigation {
+	float: right;
+	display: inline-block;
+	line-height: 24px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#footer ul.navigation li {
+	float: left;
+	margin-left: 15px;
+}
+#footer ul.navigation li:first-child {
+	margin-left: 0;
+}
+
+#footer #footnote {
+	color: #ab7d0f;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+/* Contents */
+#contents h3 {
+    text-align: center;
+    font-size: 20px;
+}
+form {
+    text-align: center;
+}
+input {
+    padding:5px; 
+    border:2px solid #ccc;
+    border-radius: 5px;
+}
+input:focus {
+    border-color:#333; 
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    border-radius: 5px;
+    color: white;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+select {
+    width: 110px;
+    height: 50px;
+    font-size: 20px;
+}
+td {
+    padding-left: 15px;
+    font-size: 18px;
+}
+p.order, p.info {
+    text-align: center;
+    font-family: sans-serif;
+}
+#totalPrice {
+    color: red;
+}
+#loadIngr {
+    border-spacing: 10px;
+    border-collapse: separate;
+}

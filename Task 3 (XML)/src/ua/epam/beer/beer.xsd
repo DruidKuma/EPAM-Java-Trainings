@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <xsd:annotation>
+    <xsd:documentation xml:lang="en">
+      Beer schema for EPAM Systems (Task 3)
+      Copyright 2014 Yuriy Miedviediev
+    </xsd:documentation>
+  </xsd:annotation>
+  
+  <!-- Main Element of the Schema -->
+  <xsd:element name="Beer">
+      <xsd:complexType>
+          <xsd:sequence>
+              <xsd:element name="Bottle" type="bottleType" maxOccurs="unbounded"/>
+          </xsd:sequence>
+      </xsd:complexType>
+  </xsd:element>
+  
+  <!-- Type for every bootle of beer-->
+  <xsd:complexType name="bottleType">
+    <xsd:sequence>  
+        <xsd:element name="Name" type="xsd:string"/>
+        <xsd:element name="Type" type="beerType"/>
+        <xsd:element name="Al" type="xsd:boolean"/>
+        <xsd:element name="Manufacturer" type="manufacturerType"/>
+        <xsd:element name="Ingredients" type="ingredientsType"/>
+        <xsd:element name="Chars" type="characteristicsType"/>
+    </xsd:sequence>
+    <xsd:attribute name="id" type="xsd:ID" use="required"/>
+  </xsd:complexType>
+
+  <!-- Type of the Beer (can be light, dark, lager or live) -->
+  <xsd:simpleType name="beerType">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="dark"/>
+      <xsd:enumeration value="light"/>
+      <xsd:enumeration value="lager"/>
+      <xsd:enumeration value="live"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <!-- Manufacturer of the Beer (must begin with capital letter) -->
+  <xsd:simpleType name="manufacturerType">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[A-Z][a-zA-Z]+"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  
+  <!-- Raw type for ingredients -->
+  <xsd:simpleType name="ingredients">
+    <xsd:list itemType="xsd:string"/>      
+  </xsd:simpleType>
+  
+  <!-- Type for Ingredients of the Beer (must have at least 2 ingredients) -->
+  <xsd:simpleType name="ingredientsType">
+    <xsd:restriction base="ingredients">
+      <xsd:minLength value="2"/> 
+    </xsd:restriction>
+  </xsd:simpleType>
+  
+  <!-- Type for Beer Characteristics -->
+  <xsd:complexType name="characteristicsType">
+    <xsd:sequence>
+        <xsd:element name="draught" type="draughtType"/>
+    </xsd:sequence>
+    <xsd:attribute name="abv" type="xsd:decimal" use="optional"/> <!-- ABV = Alcohol By Volume -->
+    <xsd:attribute name="transparency" type="xsd:decimal" use="required"/>
+    <xsd:attribute name="filtered" type="xsd:boolean" use="required"/>
+    <xsd:attribute name="nutrition" type="xsd:decimal" use="required"/>
+  </xsd:complexType>
+  
+  <!-- Type for Beer Draught (Packing Materials and Volume) -->
+  <xsd:complexType name="draughtType">
+      <xsd:sequence>
+          <xsd:element name="volume" type="volumeType"/>
+          <xsd:element name="pack" type="packType"/>
+      </xsd:sequence>
+  </xsd:complexType>
+  
+  <!-- Restrictions for the volume of the Beer (can be 0.33l, 0.5l, 1l, 1.5l and 2l) -->
+  <xsd:simpleType name="volumeType">
+      <xsd:restriction base="xsd:decimal">
+          <xsd:enumeration value="0.33"/>
+          <xsd:enumeration value="0.5"/>
+          <xsd:enumeration value="1"/>
+          <xsd:enumeration value="1.5"/>
+          <xsd:enumeration value="2"/>
+      </xsd:restriction>
+  </xsd:simpleType>
+  
+  <!-- Restrictions for the packing materials of the Beer (can be plastic or glass) -->
+  <xsd:simpleType name="packType">
+      <xsd:restriction base="xsd:string">
+          <xsd:enumeration value="plastic"/>
+          <xsd:enumeration value="glass"/>
+          <xsd:enumeration value="can"/>
+      </xsd:restriction>
+  </xsd:simpleType>
+      
+</xsd:schema>

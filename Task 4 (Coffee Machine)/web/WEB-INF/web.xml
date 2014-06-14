@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <!-- Adjust the Front Controller -->
+    <servlet>
+        <servlet-name>FrontController</servlet-name>
+        <servlet-class>ua.epam.coffeemachine.web.control.FrontController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>FrontController</servlet-name>
+        <url-pattern>/pages/*</url-pattern>
+    </servlet-mapping>
+    <!-- Set session timeout -->
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+    <!-- Listeners -->
+    <listener>
+        <listener-class>ua.epam.coffeemachine.util.ConnectionPoolManager</listener-class>
+    </listener>
+    <listener>
+        <listener-class>ua.epam.coffeemachine.util.InitializeLanguage</listener-class>
+    </listener>
+</web-app>

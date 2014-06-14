@@ -1,0 +1,679 @@
+2014-06-05 21:43:10 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 21:43:20 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 21:43:24 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 21:59:04 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 21:59:05 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:04:41 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:04:42 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:04:45 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:04:46 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:04:48 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:04:48 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:05:38 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:05:39 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:06:10 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:06:11 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:09:45 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:09:45 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:11:15 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:11:15 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:15:06 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:15:07 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:17:06 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:17:07 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:17:09 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:17:10 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:24:32 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:24:33 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:28:54 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:28:55 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:52:19 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:52:22 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:59:17 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:59:18 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 22:59:23 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 22:59:24 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 23:08:57 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 23:08:59 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 23:08:59 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 23:09:01 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 23:51:46 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 23:51:47 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 23:52:00 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 23:52:01 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-05 23:52:38 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-05 23:52:45 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:03:44 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:03:47 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:07:16 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:07:20 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:07:38 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:07:41 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:19:06 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:19:07 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:19:53 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:19:54 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:21:02 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:21:06 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:24:13 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:24:18 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:27:36 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:27:36 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:27:39 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:27:40 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 00:27:43 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 00:28:16 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 02:32:25 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 02:32:29 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 03:01:06 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 03:01:07 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 03:17:08 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 03:17:09 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 04:03:09 ERROR MySQLRepFactory:52 - java.sql.SQLException: Unable to open a test connection to the given database. JDBC url = jdbc:mysql://localhost/coffeemachine?useUnicode=true&characterEncoding=UTF-8, username = root. Terminating connection pool. Original Exception: ------
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1117)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2461)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2498)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2283)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:822)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:404)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:317)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.jolbox.bonecp.BoneCP.obtainRawInternalConnection(BoneCP.java:256)
+	at com.jolbox.bonecp.BoneCP.<init>(BoneCP.java:305)
+	at ua.epam.coffeemachine.repository.mysql.MySQLRepFactory.startConPool(MySQLRepFactory.java:49)
+	at ua.epam.coffeemachine.util.ConnectionPoolManager.contextInitialized(ConnectionPoolManager.java:21)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4973)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5467)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:632)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1862)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:744)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:259)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 31 more
+------
+
+java.sql.SQLException: Unable to open a test connection to the given database. JDBC url = jdbc:mysql://localhost/coffeemachine?useUnicode=true&characterEncoding=UTF-8, username = root. Terminating connection pool. Original Exception: ------
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1117)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2461)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2498)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2283)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:822)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:404)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:317)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.jolbox.bonecp.BoneCP.obtainRawInternalConnection(BoneCP.java:256)
+	at com.jolbox.bonecp.BoneCP.<init>(BoneCP.java:305)
+	at ua.epam.coffeemachine.repository.mysql.MySQLRepFactory.startConPool(MySQLRepFactory.java:49)
+	at ua.epam.coffeemachine.util.ConnectionPoolManager.contextInitialized(ConnectionPoolManager.java:21)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4973)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5467)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:632)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1862)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:744)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:259)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 31 more
+------
+
+	at com.jolbox.bonecp.BoneCP.<init>(BoneCP.java:312)
+	at ua.epam.coffeemachine.repository.mysql.MySQLRepFactory.startConPool(MySQLRepFactory.java:49)
+	at ua.epam.coffeemachine.util.ConnectionPoolManager.contextInitialized(ConnectionPoolManager.java:21)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4973)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5467)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:632)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1862)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:744)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1117)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2461)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2498)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2283)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:822)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:404)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:317)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.jolbox.bonecp.BoneCP.obtainRawInternalConnection(BoneCP.java:256)
+	at com.jolbox.bonecp.BoneCP.<init>(BoneCP.java:305)
+	... 15 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:259)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 31 more
+2014-06-06 04:13:47 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 04:30:03 INFO  LoginPage:50 - User Linux has logged in
+2014-06-06 04:56:48 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 04:56:49 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 04:57:05 INFO  LoginPage:50 - User Linux has logged in
+2014-06-06 05:15:44 INFO  BuyAction:43 - User Linux purchased Ristretto for 50.0$
+2014-06-06 05:16:23 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:16:24 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:24:37 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:24:38 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:25:35 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 05:26:21 INFO  BuyAction:43 - User Linux purchased Cappuccino for 104.25$
+2014-06-06 05:29:19 INFO  MySQLIngredientRep:47 - 16gr. of Coffee were added to the Coffee Machine
+2014-06-06 05:29:32 INFO  MySQLIngredientRep:47 - 45gr. of Water were added to the Coffee Machine
+2014-06-06 05:30:50 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:30:51 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:30:53 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:30:54 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:31:05 INFO  MySQLIngredientRep:47 - 45gr. of Milk were added to the Coffee Machine
+2014-06-06 05:31:12 INFO  MySQLIngredientRep:47 - 35gr. of Sugar were added to the Coffee Machine
+2014-06-06 05:31:25 INFO  MySQLIngredientRep:47 - 15gr. of Syrop were added to the Coffee Machine
+2014-06-06 05:32:46 INFO  MySQLIngredientRep:47 - 15gr. of Syrop were added to the Coffee Machine
+2014-06-06 05:32:55 INFO  MySQLIngredientRep:47 - 1gr. of Coffee were added to the Coffee Machine
+2014-06-06 05:33:08 INFO  MySQLIngredientRep:47 - 40gr. of Milk were added to the Coffee Machine
+2014-06-06 05:38:26 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:38:27 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:40:01 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:40:07 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:40:34 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 05:42:58 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:42:59 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:42:59 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:43:00 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:43:20 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:43:21 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:46:16 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:46:17 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:46:29 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:46:30 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:47:40 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:47:41 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:48:19 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:48:20 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:48:30 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:48:34 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:48:53 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 05:48:56 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 05:49:06 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 05:49:12 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 05:50:24 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:50:25 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:51:41 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:51:42 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:52:33 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:52:34 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:53:54 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 05:53:55 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 05:54:05 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 05:54:25 INFO  MySQLIngredientRep:47 - 30gr. of Cream were added to the Coffee Machine
+2014-06-06 05:54:31 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 09:08:03 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 09:08:11 INFO  BuyAction:43 - User Linux purchased Ristretto for 15.0$
+2014-06-06 09:13:26 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 09:13:31 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 09:13:43 INFO  MySQLIngredientRep:47 - 7gr. of Coffee were added to the Coffee Machine
+2014-06-06 09:13:48 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 13:29:59 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 13:30:01 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 13:33:07 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 13:33:08 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 13:33:15 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 13:33:16 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 13:35:17 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 13:35:18 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 13:51:11 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 13:51:12 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 13:52:55 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 13:52:56 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 13:55:06 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 13:55:07 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 13:55:07 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 13:55:08 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:02:29 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:02:30 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:03:11 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:03:12 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:09:54 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:09:55 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:10:18 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:10:19 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:11:45 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:11:46 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:12:29 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:12:30 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:12:31 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:12:32 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:12:37 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 14:12:45 INFO  MySQLIngredientRep:47 - 15gr. of Water were added to the Coffee Machine
+2014-06-06 14:13:01 INFO  BuyAction:43 - User Linux purchased Ristretto for 55.0$
+2014-06-06 14:13:05 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 14:13:21 INFO  MySQLUserRep:73 - New User (test) was added to the database
+2014-06-06 14:13:21 ERROR MySQLUserRep:225 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2322)
+	at com.jolbox.bonecp.PreparedStatementHandle.executeQuery(PreparedStatementHandle.java:172)
+	at ua.epam.coffeemachine.repository.user.MySQLUserRep.getPasswordByID(MySQLUserRep.java:221)
+	at ua.epam.coffeemachine.repository.user.MySQLUserRep.setPassword(MySQLUserRep.java:168)
+	at ua.epam.coffeemachine.service.user.StandardUserService.setPassword(StandardUserService.java:84)
+	at ua.epam.coffeemachine.web.control.action.RegistrationPage.handleRequest(RegistrationPage.java:48)
+	at ua.epam.coffeemachine.web.control.FrontController.processRequest(FrontController.java:36)
+	at ua.epam.coffeemachine.web.control.FrontController.doPost(FrontController.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at ua.epam.coffeemachine.web.filter.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:36)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:744)
+2014-06-06 14:13:26 INFO  LoginPage:51 - User test has logged in
+2014-06-06 14:13:37 INFO  BuyAction:43 - User test purchased Ristretto for 25.25$
+2014-06-06 14:13:44 INFO  LogoutFilter:41 - User test has logged out
+2014-06-06 14:14:12 INFO  MySQLUserRep:73 - New User (Юрец) was added to the database
+2014-06-06 14:14:12 ERROR MySQLUserRep:225 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2322)
+	at com.jolbox.bonecp.PreparedStatementHandle.executeQuery(PreparedStatementHandle.java:172)
+	at ua.epam.coffeemachine.repository.user.MySQLUserRep.getPasswordByID(MySQLUserRep.java:221)
+	at ua.epam.coffeemachine.repository.user.MySQLUserRep.setPassword(MySQLUserRep.java:168)
+	at ua.epam.coffeemachine.service.user.StandardUserService.setPassword(StandardUserService.java:84)
+	at ua.epam.coffeemachine.web.control.action.RegistrationPage.handleRequest(RegistrationPage.java:48)
+	at ua.epam.coffeemachine.web.control.FrontController.processRequest(FrontController.java:36)
+	at ua.epam.coffeemachine.web.control.FrontController.doPost(FrontController.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at ua.epam.coffeemachine.web.filter.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:36)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:744)
+2014-06-06 14:14:19 INFO  LoginPage:51 - User Юрец has logged in
+2014-06-06 14:14:38 INFO  BuyAction:43 - User Юрец purchased Americano for 80.25$
+2014-06-06 14:14:45 INFO  LogoutFilter:41 - User Юрец has logged out
+2014-06-06 14:15:06 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:15:07 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:15:39 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:15:40 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:15:46 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:15:47 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:15:47 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:15:48 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:17:47 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:17:48 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:17:51 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:17:51 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:18:09 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:18:10 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:18:39 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:18:40 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:18:40 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:18:41 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:18:41 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:18:42 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:18:44 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:18:45 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:19:27 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:19:28 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:21:24 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:21:25 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:21:25 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:21:26 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:21:29 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:21:30 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:21:47 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:21:48 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:21:55 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:21:56 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:21:56 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:21:57 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:22:06 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:22:11 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:24:18 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:24:22 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:25:08 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:25:09 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:25:09 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:25:10 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:25:53 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:25:54 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:26:38 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:26:45 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:30:08 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:30:16 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:33:45 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:33:46 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:33:52 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:33:57 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:34:40 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:34:41 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:34:51 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:34:52 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:34:53 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:34:56 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:35:13 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:35:14 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:35:17 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:35:18 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:35:18 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:35:18 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:35:21 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:35:25 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:36:16 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:36:17 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:36:31 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:36:32 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:36:32 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:36:33 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:36:40 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:37:46 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:39:28 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:39:29 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:39:36 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:39:37 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:40:15 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:40:16 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:40:18 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:40:19 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:40:19 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:40:20 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:40:28 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:40:31 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:41:20 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:41:21 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:41:25 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:41:26 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:41:26 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:41:29 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:41:35 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 14:41:59 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
+2014-06-06 14:42:05 INFO  MySQLRepFactory:50 - Connection Pool successfully created
+2014-06-06 14:42:14 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 14:42:22 INFO  MySQLIngredientRep:47 - 24gr. of Coffee were added to the Coffee Machine
+2014-06-06 14:42:36 INFO  BuyAction:43 - User Linux purchased Latte for 85.0$
+2014-06-06 14:42:43 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 15:11:34 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 15:11:48 INFO  BuyAction:43 - User Linux purchased Ristretto for 75.0$
+2014-06-06 15:11:53 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 16:37:25 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 16:37:42 INFO  BuyAction:43 - User Linux purchased Cappuccino for 30.75$
+2014-06-06 16:37:49 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 16:37:52 INFO  LoginPage:51 - User test has logged in
+2014-06-06 16:37:57 INFO  LogoutFilter:41 - User test has logged out
+2014-06-06 16:59:40 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 16:59:46 INFO  MySQLIngredientRep:47 - 24gr. of Coffee were added to the Coffee Machine
+2014-06-06 17:00:03 INFO  BuyAction:43 - User Linux purchased Ristretto for 76.0$
+2014-06-06 17:00:14 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 17:17:09 INFO  LoginPage:51 - User test has logged in
+2014-06-06 17:18:11 INFO  BuyAction:43 - User test purchased Ristretto for 15.0$
+2014-06-06 17:18:15 INFO  LogoutFilter:41 - User test has logged out
+2014-06-06 17:18:19 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 17:18:52 INFO  MySQLIngredientRep:47 - 55gr. of Syrop were added to the Coffee Machine
+2014-06-06 17:18:59 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 17:25:15 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 17:25:19 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 19:32:35 INFO  MySQLUserRep:73 - New User (СуперДетка) was added to the database
+2014-06-06 19:32:35 ERROR MySQLUserRep:225 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2322)
+	at com.jolbox.bonecp.PreparedStatementHandle.executeQuery(PreparedStatementHandle.java:172)
+	at ua.epam.coffeemachine.repository.user.MySQLUserRep.getPasswordByID(MySQLUserRep.java:221)
+	at ua.epam.coffeemachine.repository.user.MySQLUserRep.setPassword(MySQLUserRep.java:168)
+	at ua.epam.coffeemachine.service.user.StandardUserService.setPassword(StandardUserService.java:84)
+	at ua.epam.coffeemachine.web.control.action.RegistrationPage.handleRequest(RegistrationPage.java:48)
+	at ua.epam.coffeemachine.web.control.FrontController.processRequest(FrontController.java:36)
+	at ua.epam.coffeemachine.web.control.FrontController.doPost(FrontController.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at ua.epam.coffeemachine.web.filter.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:36)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:744)
+2014-06-06 19:32:50 INFO  LoginPage:51 - User СуперДетка has logged in
+2014-06-06 19:34:00 INFO  BuyAction:43 - User СуперДетка purchased Americano for 207.5$
+2014-06-06 19:34:17 INFO  LogoutFilter:41 - User СуперДетка has logged out
+2014-06-06 19:34:23 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 19:35:00 INFO  MySQLIngredientRep:47 - 1000gr. of Chocolate were added to the Coffee Machine
+2014-06-06 19:35:26 INFO  BuyAction:43 - User Linux purchased Latte for 100.0$
+2014-06-06 19:36:01 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 22:27:12 INFO  MySQLUserRep:73 - New User (Medvedeva) was added to the database
+2014-06-06 22:27:12 ERROR MySQLUserRep:225 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2322)
+	at com.jolbox.bonecp.PreparedStatementHandle.executeQuery(PreparedStatementHandle.java:172)
+	at ua.epam.coffeemachine.repository.user.MySQLUserRep.getPasswordByID(MySQLUserRep.java:221)
+	at ua.epam.coffeemachine.repository.user.MySQLUserRep.setPassword(MySQLUserRep.java:168)
+	at ua.epam.coffeemachine.service.user.StandardUserService.setPassword(StandardUserService.java:84)
+	at ua.epam.coffeemachine.web.control.action.RegistrationPage.handleRequest(RegistrationPage.java:48)
+	at ua.epam.coffeemachine.web.control.FrontController.processRequest(FrontController.java:36)
+	at ua.epam.coffeemachine.web.control.FrontController.doPost(FrontController.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at ua.epam.coffeemachine.web.filter.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:36)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:744)
+2014-06-06 22:27:19 INFO  LoginPage:51 - User Medvedeva has logged in
+2014-06-06 22:28:09 INFO  BuyAction:43 - User Medvedeva purchased Espresso for 50.75$
+2014-06-06 22:28:17 INFO  LogoutFilter:41 - User Medvedeva has logged out
+2014-06-06 22:28:24 INFO  LoginPage:51 - User Linux has logged in
+2014-06-06 22:28:43 INFO  MySQLIngredientRep:47 - 1000gr. of Coffee were added to the Coffee Machine
+2014-06-06 22:29:32 INFO  MySQLIngredientRep:47 - 315gr. of Water were added to the Coffee Machine
+2014-06-06 22:29:36 INFO  LogoutFilter:41 - User Linux has logged out
+2014-06-06 22:30:13 INFO  MySQLRepFactory:62 - Connection Pool was successfully shut down
